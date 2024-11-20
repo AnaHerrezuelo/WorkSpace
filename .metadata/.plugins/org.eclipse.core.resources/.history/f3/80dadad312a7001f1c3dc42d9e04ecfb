@@ -1,8 +1,8 @@
 
-public class Act08 {
+public class Act10 {
 	public static void main(String[] args) {
 
-		int number1;
+	    int number1;
 		int number2;
 		double sum;
 		double sub;
@@ -21,10 +21,6 @@ public class Act08 {
 		div =  number11 / number22;
 		
 		rem = number1 % number2;
-		
 		System.out.print("The addition is: " + sum + "\nThe subtract is: " + sub + "\nThe multipluication is: " + m + "\nThe division is: " + div +  "\nThe remainder is: " + rem);
 	}
 }
-
-
-
